@@ -1,0 +1,36 @@
+header {
+    font-size:x-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:floralwhite;
+    text-align:center;
+    padding:10px;
+    background-color: black;
+
+
+}
+
+.bannerimg {
+    width:100%;
+    height: 100px;
+    background-image: url(assests/banner.jpg);
+}
+
+.mainImg {
+    width:100%;
+    height:1000px;
+    background-image: url(assests/MainImg.jpg);
+}
+
+.footer {
+    font-size:large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:floralwhite;
+    text-align: center;
+    padding:4px;
+    position: fixed;
+    background-color:black;
+    width: 100%;
+    bottom:0;
+
+
+}
