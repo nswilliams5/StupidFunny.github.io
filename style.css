@@ -1,7 +1,7 @@
 header {
     font-size:x-large;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color:floralwhite;
+    color:greenyellow;
     text-align:center;
     padding: 10px;
     background-color: black;
@@ -24,7 +24,7 @@ header {
 .footer {
     font-size:xx-large;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color:green;
+    color:greenyellow;
     text-align: center;
     padding:4px;
     position: fixed;
