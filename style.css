@@ -16,13 +16,13 @@ header {
 }
 
 .mainImg {
-    width:100%;
+    width:1000px;
     height:1000px;
     background-image: url(assests/Smokin.jpg);
 }
 
 .footer {
-    font-size:large;
+    font-size:xx-large;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:green;
     text-align: center;
