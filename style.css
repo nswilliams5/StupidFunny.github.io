@@ -16,8 +16,8 @@ header {
 }
 
 .mainImg {
-    height: 200px;
-    max-width: 300px;
+    height: 1000em;
+    max-width: 1000em;
     background-image: url(assests/Smokin.jpg);
 }
 
